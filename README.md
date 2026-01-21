@@ -1,0 +1,2 @@
+# Syntova.ai
+Syntova Project
